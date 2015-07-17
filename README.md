@@ -66,6 +66,208 @@ This project provides a cross-platform command line interface for developers and
     * List imported Azure subscriptions
     * Select current subscription
     * Manage Azure environments
+    * # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
+    * Create and manage affinity groups
+    * Export management certificate
+* Storage
+    * Create and manage Storage Accounts
+    * Create and manage container, blob and ACL
+* Websites
+    * Create and manage Microsoft Azure websites
+    * Download site log files and get real time log streaming
+    * Manage Deployments
+    * Configure GitHub integration
+    * Create, manage and swap slots
+    * Create and manage WebJobs
+* Virtual machines
+* # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
+    * Create and manage affinity groups
+    * Export management certificate
+* Storage
+    * Create and manage Storage Accounts
+    * Create and manage container, blob and ACL
+* Websites
+    * Create and manage Microsoft Azure websites
+    * Download site log files and get real time log streaming
+    * Manage Deployments
+    * Configure GitHub integration
+    * Create, manage and swap slots
+    * Create and manage WebJobs
+* Virtual machines
+* # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments# Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
+    * Create and manage affinity groups
+    * Export management certificate
+* Storage
+    * Create and manage Storage Accounts
+    * Create and manage container, blob and ACL
+* Websites
+    * Create and manage Microsoft Azure websites
+    * Download site log files and get real time log streaming
+    * Manage Deployments
+    * Configure GitHub integration
+    * Create, manage and swap slots
+    * Create and manage WebJobs
+* Virtual machines
+* # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
+    * Create and manage affinity groups
+    * Export management certificate
+* Storage
+    * Create and manage Storage Accounts
+    * Create and manage container, blob and ACL
+* Websites
+    * Create and manage Microsoft Azure websites
+    * Download site log files and get real time log streaming
+    * Manage Deployments
+    * Configure GitHub integration
+    * Create, manage and swap slots
+    * Create and manage WebJobs
+* Virtual machines
+* # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments# Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
+    * Create and manage affinity groups
+    * Export management certificate
+* Storage
+    * Create and manage Storage Accounts
+    * Create and manage container, blob and ACL
+* Websites
+    * Create and manage Microsoft Azure websites
+    * Download site log files and get real time log streaming
+    * Manage Deployments
+    * Configure GitHub integration
+    * Create, manage and swap slots
+    * Create and manage WebJobs
+* Virtual machines
+* # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
+    * Create and manage affinity groups
+    * Export management certificate
+* Storage
+    * Create and manage Storage Accounts
+    * Create and manage container, blob and ACL
+* Websites
+    * Create and manage Microsoft Azure websites
+    * Download site log files and get real time log streaming
+    * Manage Deployments
+    * Configure GitHub integration
+    * Create, manage and swap slots
+    * Create and manage WebJobs
+* Virtual machines
+* # Microsoft Azure Xplat-CLI for Windows, Mac and Linux
+
+[![NPM version](https://badge.fury.io/js/azure-cli.png)](http://badge.fury.io/js/azure-cli) [![Build Status](https://travis-ci.org/Azure/azure-xplat-cli.png?branch=master)](https://travis-ci.org/Azure/azure-xplat-cli)
+
+This project provides a cross-platform command line interface for developers and IT administrators to develop, deploy and manage Microsoft Azure applications.
+
+## Features
+
+* Accounts
+    * Azure Active Directory authentication for Organizational ID
+    * Download and import Azure publish settings
+    * List imported Azure subscriptions
+    * Select current subscription
+    * Manage Azure environments
     * Create and manage affinity groups
     * Export management certificate
 * Storage
